@@ -33,9 +33,8 @@ Lista de herramientas utilizadas, representadas por sus logotipos:
 
 ### 6. Redes Sociales
 Enlaces a perfiles sociales:
-- **YouTube.**
+- **YouTube.** @asterchan7985
 - **Twitter (X):** @melodych0328
-- **Reddit.**
 
 ---
 

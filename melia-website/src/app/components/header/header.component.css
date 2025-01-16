@@ -1,0 +1,44 @@
+/* Reset básico para el componente */
+:host {
+  display: block;
+  width: 100%;
+}
+
+/* Estilo principal del header */
+.ios-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  background: linear-gradient(90deg, #ffffff, #f0f0f0);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.logo img {
+  height: 40px;
+}
+
+.menu {
+  display: flex;
+  gap: 20px;
+}
+
+.menu-item {
+  text-decoration: none;
+  color: #007aff;
+  font-size: 16px;
+  font-weight: 500;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.menu-item:hover {
+  color: #0056d2;
+  transform: scale(1.1);
+}
+
+.menu-item:active {
+  color: #0041a3;
+}
